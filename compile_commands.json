@@ -1,0 +1,54 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/seb/stumper/test",
+    "file": "/home/seb/stumper/test/src/main.c",
+    "output": "/home/seb/stumper/test/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/my_putstr_error.o",
+      "src/my_putstr_error.c"
+    ],
+    "directory": "/home/seb/stumper/test",
+    "file": "/home/seb/stumper/test/src/my_putstr_error.c",
+    "output": "/home/seb/stumper/test/src/my_putstr_error.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/my_strlen.o",
+      "src/my_strlen.c"
+    ],
+    "directory": "/home/seb/stumper/test",
+    "file": "/home/seb/stumper/test/src/my_strlen.c",
+    "output": "/home/seb/stumper/test/src/my_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-c",
+      "-o",
+      "src/my_strdup.o",
+      "src/my_strdup.c"
+    ],
+    "directory": "/home/seb/stumper/test",
+    "file": "/home/seb/stumper/test/src/my_strdup.c",
+    "output": "/home/seb/stumper/test/src/my_strdup.o"
+  }
+]
